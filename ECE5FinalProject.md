@@ -1,4 +1,4 @@
-#ECE 5 Arduino Robot
+# ECE 5 Arduino Robot
 ---
 Team Names: 
 -Jorge Anicacio
@@ -7,12 +7,12 @@ Team Names:
 -Vivian Tran 
 
 
-#Inital Robot Protype
+# Inital Robot Protype
 
-#Poster
+# Poster
 
-#Compettition Scores
+# Compettition Scores
 
-#Competition Video
+# Competition Video
 
-#Reflections 
+# Reflections 

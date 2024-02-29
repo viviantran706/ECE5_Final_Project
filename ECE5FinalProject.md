@@ -5,7 +5,7 @@ Team Names:
 - Jorge Anicacio
 - Bella Cortez
 - Lucero Felix Salazar
-- Vivian Tran 
+- 
 
 
 # Inital Robot Protype

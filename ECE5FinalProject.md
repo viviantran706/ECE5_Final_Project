@@ -9,6 +9,8 @@ Team Names:
 
 
 # Inital Robot Protype
+![Image]()
+
 
 # Poster
 

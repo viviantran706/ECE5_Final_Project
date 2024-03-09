@@ -22,5 +22,6 @@ The first photo is a clearer and full body image of the protype where you can se
 # Compettition Scores
 
 # Competition Video
-
+Below is the link to video
+![link](92bf02366de54bbeb7e7a6a0a7c013e8.MOV)
 # Reflections 

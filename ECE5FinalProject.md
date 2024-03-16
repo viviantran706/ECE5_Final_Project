@@ -5,8 +5,8 @@ Team Names:
 - Jorge Anicacio
 - Bella Cortez
 - Lucero Felix Salazar
-- Vivian Tran!
-![image]((https://raw.githubusercontent.com/viviantran706/ECE5_Final_Project/main/IMG_2314.jpeg)
+- Vivian Tran
+![image](https://raw.githubusercontent.com/viviantran706/ECE5_Final_Project/main/IMG_2314.jpeg)
 
 
 # Inital Robot Protype
@@ -25,4 +25,8 @@ The first photo is a clearer and full body image of the protype where you can se
 # Competition Video
 Below is the link to video
 ![link](https://drive.google.com/file/d/1HX8EC6MVhW3GxR-UgUB06FJtHqb2sVwK/view?usp=sharing)
+
+Day of the competition
+
+![link](https://drive.google.com/file/d/1LTGxF0N6lztVnSv9v8H8MYHQW3rX9bie/view?usp=sharing)
 # Reflections 

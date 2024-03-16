@@ -28,10 +28,10 @@ We werre able to get through two brackes in the line test. Scored 7.5 laps on th
 # Competition Video
 Below is the link to video of it going in a line
 
-[link](https://github.com/viviantran706/ECE5_Final_Project/blob/main/IMG_2306%20(1).mp4)
+[link](https://drive.google.com/file/d/1zZHtMOD_5Srcu3dc9CgDkTz2MQG6MRDe/view?usp=sharing)
 
 Day of the competition
 
-[link](https://github.com/viviantran706/ECE5_Final_Project/blob/main/92bf02366de54bbeb7e7a6a0a7c013e8%20(1).mp4)
+[link](https://drive.google.com/file/d/1LTGxF0N6lztVnSv9v8H8MYHQW3rX9bie/view?usp=sharing)
 # Reflections 
 We wished we were able to understand why our robot would slow down then speed up would really had helped us. And knowing that we didnt have to proboard becuase we were never taught that or hwo to bridge and never instruced when it was given to us. SO this did slow us down alot have haev many error. Which we ended up scratching that and movig it back to a regualr board.

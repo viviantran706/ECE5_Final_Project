@@ -26,10 +26,12 @@ The first photo is a clearer and full body image of the protype where you can se
 We werre able to get through two brackes in the line test. Scored 7.5 laps on the circluar course. And got to the 3-7 mark of the signal wave course.
 
 # Competition Video
-Below is the link to video
+Below is the link to video of it going in a line
+
 ![link](https://drive.google.com/file/d/1HX8EC6MVhW3GxR-UgUB06FJtHqb2sVwK/view?usp=sharing)
 
 Day of the competition
 
 ![link](https://drive.google.com/file/d/1LTGxF0N6lztVnSv9v8H8MYHQW3rX9bie/view?usp=sharing)
 # Reflections 
+We wished we were able to understand why our robot would slow down then speed up would really had helped us. And knowing that we didnt have to proboard becuase we were never taught that or hwo to bridge and never instruced when it was given to us. SO this did slow us down alot have haev many error. Which we ended up scratching that and movig it back to a regualr board.

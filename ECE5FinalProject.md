@@ -5,7 +5,9 @@ Team Names:
 - Jorge Anicacio
 - Bella Cortez
 - Lucero Felix Salazar
-- Vivian Tran
+- Vivian Tran!
+![image](https://github.com/viviantran706/ECE5_Final_Project/assets/79215770/a0f344a4-b818-41f3-a7e9-00749ff83473)
+
 
 
 # Inital Robot Protype

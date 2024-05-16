@@ -1,3 +1,2 @@
-![video](https://drive.google.com/file/d/1zZHtMOD_5Srcu3dc9CgDkTz2MQG6MRDe/view?usp=sharing)
 
-![video](https://drive.google.com/file/d/1LTGxF0N6lztVnSv9v8H8MYHQW3rX9bie/view?usp=sharing)
+In the ECE 5 class at UC San Diego, our group encountered significant challenges during the robot construction phase, particularly with assembly. The main difficulty arose from configuring the eight photoresistors, ensuring they were perfectly distanced and uniform to enhance their effectiveness. We implemented a PID controller to refine the photoresistor readings, which enabled more precise navigation along a black line. This resolution provided us with a deeper insight into how each component interacts with the Arduino. Over the course of the project, we honed our skills in soldering, C programming, using OrCAD for circuit design, and assembling hardware components. Despite the initial obstacles, our team's dedication and persistence led to successful outcomes.
